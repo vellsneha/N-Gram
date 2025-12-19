@@ -1,5 +1,5 @@
 """
-Homework 2:N-Gram Language Modeling and Evaluation
+N-Gram Language Modeling and Evaluation
 
 
 Implemented various N-gram language models with different
